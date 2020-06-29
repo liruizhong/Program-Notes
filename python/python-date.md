@@ -1,7 +1,7 @@
 ### python 获取时间相关总结
 Python获取昨天，今天，明天，本周，上周，本月，上月，本季，本年，去年时间
 
-```
+```python
 #coding=utf-8
 
 import datetime
